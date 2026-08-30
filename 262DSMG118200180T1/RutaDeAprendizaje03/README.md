@@ -1,1 +1,2 @@
-# Ruta de Aprendizaje 03 
+Este archivo contiene ejemplos prácticos relacionados a la Ruta de Aprendizaje 3.
+
